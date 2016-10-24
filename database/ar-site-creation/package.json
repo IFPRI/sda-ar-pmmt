@@ -1,0 +1,10 @@
+{
+  "name": "ar-site-creation",
+  "version": "0.0.0",
+  "dependencies": {
+    "fs": "0.0.2",
+    "path": "^0.12.7",
+    "q": "^1.4.1",
+    "xlsx": "^0.8.0"
+  }
+}

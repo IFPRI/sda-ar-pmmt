@@ -1,0 +1,6 @@
+{
+  "country": "Zambia",
+  "database": "AfricaRising.Test",
+  "outputFilename":"example-NewSites",
+  "inputFilename":"af_site_points.xls"
+}
